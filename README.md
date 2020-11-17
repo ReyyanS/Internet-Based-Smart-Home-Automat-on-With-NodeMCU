@@ -7,3 +7,8 @@ With developing technology, smart home systems have had rapid increases in the m
 # Project Photo
 
 ![SmartHome](https://user-images.githubusercontent.com/37586770/99427102-097ae380-2916-11eb-86f2-16ba3c883c2f.jpg)
+
+
+# Control of the System from the Phone
+
+<img width="386" alt="Telephone" src="https://user-images.githubusercontent.com/37586770/99427570-a178cd00-2916-11eb-91f7-7d92551b30e6.PNG">
